@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sruthi Bijoy</h1>
+<h1 align="center">Hi 👋, I'm Sruthi</h1>
 <h3 align="center">An undergraduate student of Computer Science and an aspiring full stack developer 👩‍💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sruthibijoyr&label=Profile%20views&color=0e75b6&style=flat" alt="sruthibijoyr" /> </p>
